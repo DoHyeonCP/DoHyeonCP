@@ -22,9 +22,12 @@ Here are some ideas to get you started:
 
 ## Blog
 
-2022~2023
+2022 ~ 2023
+
 https://velog.io/@ehgus8621/posts
-2024~now
+
+2024 ~ now
+
 https://ehgus8621.tistory.com/
 
 ## Algorithm
