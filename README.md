@@ -20,6 +20,14 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DoHyeonCP&layout=compact)
 -->
 
+## Blog
+
+2022~2023
+https://velog.io/@ehgus8621/posts
+2024~now
+https://ehgus8621.tistory.com/
+
+## Algorithm
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ehgusdev8621)](https://solved.ac/ehgusdev8621)
 
 
